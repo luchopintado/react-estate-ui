@@ -41,6 +41,7 @@
                     background-color: #fece51;
                     cursor: pointer;
                     border: none;
+                    cursor: pointer;
                 }
             }
 
@@ -53,6 +54,14 @@
                     display: flex;
                     align-items: center;
                     gap: 10px;
+                }
+
+                button {
+                    width: 100px;
+                    background-color: teal;
+                    border: none;
+                    color: white;
+                    padding: 10px 20px;
                 }
 
                 img {
